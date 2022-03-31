@@ -1,4 +1,6 @@
-# UBC Brain Circuits Cluster Data Management White Paper
+# UBC Laksman Lab Data Management Research Lore
+
+gratefully based on the UBC Brain Circuits white paper:
 
 [![Documentation Status](https://readthedocs.org/projects/ubcbraincircuits/badge/?version=latest)](https://ubcbraincircuits.readthedocs.io/en/latest/?badge=latest)
 
